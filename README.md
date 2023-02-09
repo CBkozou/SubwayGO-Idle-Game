@@ -1,4 +1,4 @@
-# SubwayGO-Idle-Game
+# 昆明市地下鉄のテーマAndroidアプリ「Subway Go」
 
 ### **背景：**
 
